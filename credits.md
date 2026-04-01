@@ -6,18 +6,13 @@
 
 ---
 
-## 🛡️ Aegis
-- Co-Developer & Server Owner
-- Discord: **itsfizys**
-- Community: [AeroX Development](https://discord.gg/aerox)
-
 ---
 
-## 🚀 AeroX Team
+## 🚀 StratoX Team
 - Community & Support
-- Join us: [https://discord.gg/aerox](https://discord.gg/aerox)
+- Join us: [https://discord.gg/NAKXYDQb98](https://discord.gg/NAKXYDQb98)
 
 ---
 
-> Built with ❤️ by Karan & AeroX Team  
-> For any queries reach out on the community server or DM Aegis directly.
+> Built with ❤️ by Karan & StratoX Team  
+> For any queries reach out on the community server or dm Karan directly.
